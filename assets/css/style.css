@@ -1,0 +1,52 @@
+
+
+.colorNav{
+    background-color:#373A3C;
+}
+
+*{
+    font-family: 'Cabin', sans-serif;
+
+}
+
+.letranav{
+    font-size:16px;
+}
+
+.letraheader{
+    font-size:40px;
+}
+
+.letrahedearbajada{
+    font-size:20px;
+
+}
+
+.ricomidanav{
+    font-family: 'Lobster', cursive;
+    font-size:37px;
+}
+
+.titulocarta{
+    font-size: 23px;
+}
+
+.bgsuscribete{
+    background: #DC3545;
+}
+
+
+.letrarecetap{
+    font-size:20px;
+}
+
+.letrassub{
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.letrap2sub{
+    font-size:30px;
+    font-weight: 400 ;
+}
+
